@@ -29,6 +29,6 @@ a list of useful and free tools/libraries for developers
 
 * [Strong Password Generator](https://strongpasswordgenerator.com/) generate strong password online; provides practical options
 
-## Sicky note
+## Sticky note
 
 * [Stickies by Zhorn Software](http://www.zhornsoftware.co.uk/stickies/) a powerful sticky note app; much better than the one by Microsoft
