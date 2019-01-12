@@ -6,6 +6,8 @@ a list of useful and free tools/libraries for developers
 ## Edit an image
 
 * [Paint.NET](https://www.getpaint.net/index.html) a PhotoShop-like image editior; able to handle alpha channel of PNG images.
+* [SVG-Edit](https://github.com/SVG-Edit/svgedit) a web-based SVG-Editor; can be used offline; suitable for creating simple SVG images.
+* [Inkscape](https://inkscape.org/) a cross-platform a professional vector graphics editor; suitable for creating complex vector images including SVG.
 
 ## Take a screenshot
 
